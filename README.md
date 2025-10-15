@@ -1,4 +1,4 @@
-<img src="/img/URL_DA_SUA_IMAGEM_AQUI.png" width="800"/>
+<img src="/img/Captura de tela 2025-10-14 170926.png" width="800"/>
 
 # 📊 Dashboard Interativo de Análise de Salários
 
